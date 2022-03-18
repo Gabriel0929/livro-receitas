@@ -2,6 +2,8 @@
 
 ola bem vindo ao receitas :wave
 
-* 1
+* 1 ovos
 
-* 2
+* 2 carne
+
+* 3 arroz
